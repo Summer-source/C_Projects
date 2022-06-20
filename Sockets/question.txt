@@ -1,0 +1,4 @@
+what is filename_t type?
+what is buffer memory in c?
+file descriptor
+understand write function completely
